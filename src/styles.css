@@ -1,0 +1,44 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-image: url("https://img.xda-cdn.com/UsYDoofN7jJIS0hDQkkA0YqURsg=/http%3A%2F%2Fuploads.tapatalk-cdn.com%2F20160227%2Fccd9e38d6372a8546c4a568e7e569891.jpg");
+}
+.input_1{
+  min-width: 240px;
+  padding: 7px;
+  
+
+}
+.input_2{
+  min-width:240px;
+  padding:7px;
+  margin: 10px;
+}
+.btn{
+  min-width: 240px;
+  padding : 5px;
+  font-size: 16px;
+  margin: 10px;
+  background-image: linear-gradient(to top, #1e3c72 0%, #1e3c72 1%, #2a5298 100%);
+  color:whitesmoke;
+  font-weight: bold; 
+  border: 1px solid whitesmoke;
+  border-radius:5px;
+
+}
+
+.main{
+  color:whitesmoke;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+h2{
+  margin-left:5px;
+}
+
+h3{
+  color:whitesmoke;
+}
+  
